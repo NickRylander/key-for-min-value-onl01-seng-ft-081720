@@ -6,6 +6,6 @@ require_relative '../key_for_min'
 # loaded once.
 #
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
-RSpec.configure do |config|
+RSpec.configure do |name, number|
   # config here
 end
